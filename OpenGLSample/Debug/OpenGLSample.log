@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(309,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(455,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(456,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(460,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(461,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(463,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(464,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\celin\Downloads\CS330Module_7_Final_Project\OpenGLSample\Source.cpp(473,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\celin\Downloads\CS330Module_7_Final_Project\Debug\OpenGLSample.exe
