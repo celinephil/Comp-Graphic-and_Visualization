@@ -29,6 +29,17 @@ While working on the 3D scene, I was able to develop a strategy that allowed me 
 Iteration factor most definitely had a major role in my development process. During the first week, we had to review the project guidelines. I was nervous because of how intimidating it sounded. Working in iterations helped because it allowed me to focus on different areas to reach the final result. Each week (module), we were assigned with completing a specific part for our project. Had it been all jumbled up, this would have caused me to stress out even more than I did. It was important to me to work piece by piece or section by section because of the many requirements. I allowed myself to work on one thing at a time so that I wouldn't feel bombarded or overwhelmed even if that meant turning in late work. I knew the outcome of turning in late work but I also knew how important it is for me to finish step by step so that I understand the information being taught. 
 
 * How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
+My approach to developing code has evolved throughout the milestones because I have been able to recognize the minute errors or details within my code that I wouldn't have caught before. Additionally, it has helped me realize what was working and what wasn't working. From this, I was able to determine the best means or methods to improve by. Building code by section throughout the milestones led me to the project's completion.
+
 ### How can computer science help me in reaching my goals?
+
+Computer science can help me reach my goals in a plethora of ways. One way is by allowing me to gain exposure to the real world workings of software development and implementing best practices to my future coding. 
+
 * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
+Computational graphics and visualizations give me new knowledge and skills that can be applied in my future education pathway because it makes me knowledgeable of the magic that happens behind a screen. Additionally, it allows me to better understand how it has been used and the role it has played in different fields and industries such as the gaming industry. 
+
 * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+It gives me new knowledge and skills that can be applied in my future professional pathway by making me more focused and using effort to make something happen. In this course, as stated earlier, I fell behind and I knew that I had to get myself out of that hole. Gaining the momentum to keep moving forward and achieving the highest goal has and will be my goal in the profesional pathway. 
