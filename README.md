@@ -1,4 +1,4 @@
-# 3D Vector Graphics Scene
+# 3D Vector Graphics Scene :sunrise_over_mountains:	
 
 [![License badge](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License") [![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)](https://cplusplus.com/) [![Generic badge](https://img.shields.io/badge/API-OpenGL-pink.svg)](https://www.khronos.org/opengl/wiki/Getting_Started) 
 
