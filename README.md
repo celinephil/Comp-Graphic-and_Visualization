@@ -28,4 +28,12 @@ My approach to developing code has evolved throughout the milestones because I h
 
 Computational graphics and visualizations give me new knowledge and skills that can be applied in my future education pathway because it makes me knowledgeable of the magic that happens behind a screen. Additionally, it allows me to better understand how it has been used and the role it has played in different fields and industries such as the gaming and entertainment industry. It gives me new knowledge and skills that can be applied in my future professional pathway by making me more focused and using effort to make something happen. In this course, as stated earlier, I fell behind and I knew that I had to get myself out of that hole. Gaining the momentum to keep moving forward and achieving the highest goal has and will be my goal in my future endeavors.
 
+## App Screenshots :camera_flash:
 
+<div style="text-align: center;">
+    <img src="3D Scene Screenshots/3DScene.png" width="400px" />
+    <img src="3D Scene Screenshots/3DSceneReference.png" width="400px" />
+</div>
+
+---
+*[Updated May 2023 by celinephil]*
