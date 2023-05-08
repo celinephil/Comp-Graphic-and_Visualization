@@ -24,7 +24,7 @@ Address the following critical elements:
     * Utilize commenting best practices, ensuring that project source code used is briefly and clearly explained using descriptive comments.
     * Employ functional coding logic best practices, ensuring that the program runs as expected
 
-## Reflection
+## Reflection :pencil2:	
 Designing software can be a complex scenario though it doesn't always have to be. There are a number of ways to approach programming and endless outcomes for results. I like to approach software by making an initial plan and following each step thoroughly to reach the final picture. Additionally, asking for help or using resources to assist in my endeavors has helped me in the past in designing software that is fully functional and efficient. 
 
 The project helped me gain new deisgn skills that assisted in crafting a 3D scene and developing code, overall. Attention to detail and following best practices has helped me produce better code. During this project, there were times where patience and attention to detail were vital for completing a functional and logical program. Since this was one of the hardest projects I have had to work on, I realized it more in this course because of the amount of coding required for creating a 3D scene using OpenGL. I also implemented a better and improved indent style for my code so that users can have an easier time reading and following each line. 
