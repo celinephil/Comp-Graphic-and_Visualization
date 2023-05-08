@@ -1,7 +1,14 @@
-# 3D Vector Graphics Scene :sunrise_over_mountains:	
+<h1 align="center">
+    <br>
+    3D Vector Graphics Scene :sunrise_over_mountains:	
+</h1>
 
+<div align="center">
+ 
 [![License badge](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License") [![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)](https://cplusplus.com/) [![Generic badge](https://img.shields.io/badge/API-OpenGL-pink.svg)](https://www.khronos.org/opengl/wiki/Getting_Started) 
 
+ </div>
+ 
 ## Competency
 > Create realistic, interactive three-dimensional objects through the use of application programming interface (API) libraries and best practices. Create interactive graphics applications that respond to input devices allowing for successful navigation around three-dimensional objects and  through  three-dimensional space. Employ best practices in formatting, commenting, and functional logic that produce reliable computer programs. Additionally, develop fully formed graphic applications that meet project requirements.
 
