@@ -1,4 +1,9 @@
-# CS-330-Comp-Graphic-and_Visualization
+# 3D Vector Graphics Scene
+
+[![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)](https://www.python.org/)
+
+## Competency
+> Create realistic, interactive three-dimensional objects through the use of application programming interface (API) libraries and best practices. Create interactive graphics applications that respond to input devices allowing for successful navigation around three-dimensional objects and  through  three-dimensional space. Employ best practices in formatting, commenting, and functional logic that produce reliable computer programs. Additionally, develop fully formed graphic applications that meet project requirements.
 
 ### How do I approach designing software?
 
