@@ -34,7 +34,7 @@ Computational graphics and visualizations give me new knowledge and skills that 
     <img src="3D Scene Screenshots/3DScene.png" width="400px" />
     <img src="3D Scene Screenshots/3DSceneReference.png" width="400px" />
 </div>
-###(Left: My 3D scene from scratch | Right: The scene in reference)
+### (Left: My 3D scene from scratch | Right: The scene in reference)
 
 ---
 *[Updated May 2023 by celinephil]*
